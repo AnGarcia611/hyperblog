@@ -1,5 +1,5 @@
 Me llamo Andres 
 
-Estoy aprendiendo a programar
+Estoy aprendiendo a programar python
 
-Este es mi archivo de ejemplo
+Este es mi archivo de ejemplo completo
